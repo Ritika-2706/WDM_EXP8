@@ -87,7 +87,9 @@ else:
 ```
 
 ### Output:
-![image](https://github.com/Ritika-2706/WDM_EXP8/assets/93427238/ba3719e6-f862-42f7-bb13-1487d0f0e9f4)
+![image](https://github.com/Ritika-2706/WDM_EXP8/assets/93427238/4f5eb5e5-4546-4362-bd44-7795a32d4623)
+![image](https://github.com/Ritika-2706/WDM_EXP8/assets/93427238/0d72dc50-fcaa-4a5d-87a8-5740e37c0185)
+
 
 
 ### Result:
